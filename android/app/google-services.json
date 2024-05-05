@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499655304559",
+    "project_id": "gdschacks-32b57",
+    "storage_bucket": "gdschacks-32b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499655304559:android:dcf788fd13da2f47acf49a",
+        "android_client_info": {
+          "package_name": "com.mycompany.gdschacks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjbDJdw9oR83gfCUElg-LmBFEtVzudIus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
